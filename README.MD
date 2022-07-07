@@ -2,9 +2,9 @@
 
 This application is about my learning creating a progress step based on HTML, Javascript and Css 
 
-## Deploy Link
+## Deployed Link
 
-[Progress Step] ()
+[Progress Step](https://progressive-steps-bartu.netlify.app)
 
 ## Preview images from the application
 
