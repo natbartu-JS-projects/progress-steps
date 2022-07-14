@@ -11,3 +11,5 @@ This application is about my learning creating a progress step based on HTML, Ja
 ![step one](assets/step-pic-1.png)
 ![step two](assets/step-pic-2.png)
 ![last step](assets/step-pic-3.png)
+
+![video preview](assets/progressive-steps.gif)
